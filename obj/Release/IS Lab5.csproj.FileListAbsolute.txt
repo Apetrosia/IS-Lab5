@@ -1,0 +1,10 @@
+C:\Users\Apetrosia\Desktop\progr\IS\IS Lab5\bin\Release\IS Lab5.exe.config
+C:\Users\Apetrosia\Desktop\progr\IS\IS Lab5\bin\Release\IS Lab5.exe
+C:\Users\Apetrosia\Desktop\progr\IS\IS Lab5\bin\Release\IS Lab5.pdb
+C:\Users\Apetrosia\Desktop\progr\IS\IS Lab5\obj\Release\IS Lab5.csproj.AssemblyReference.cache
+C:\Users\Apetrosia\Desktop\progr\IS\IS Lab5\obj\Release\IS_Lab5.Form1.resources
+C:\Users\Apetrosia\Desktop\progr\IS\IS Lab5\obj\Release\IS_Lab5.Properties.Resources.resources
+C:\Users\Apetrosia\Desktop\progr\IS\IS Lab5\obj\Release\IS Lab5.csproj.GenerateResource.cache
+C:\Users\Apetrosia\Desktop\progr\IS\IS Lab5\obj\Release\IS Lab5.csproj.CoreCompileInputs.cache
+C:\Users\Apetrosia\Desktop\progr\IS\IS Lab5\obj\Release\IS Lab5.exe
+C:\Users\Apetrosia\Desktop\progr\IS\IS Lab5\obj\Release\IS Lab5.pdb
